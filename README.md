@@ -25,7 +25,7 @@ The sequence of operations is:
 
 
 # Data files
-All generated data for the test scenario is saved as csv in _*.dat_ files. The files are categorized as follows:
+All generated data for the test scenario is saved as csv in _*.dat_ files under [./data](./data). The files are categorized as follows:
 
 - __Path Planning__: 
     - _roadMat.dat_: Contains the reference path way-points and the lane width.
